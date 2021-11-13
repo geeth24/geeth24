@@ -16,7 +16,7 @@ When I walked into my Computer Programming 1 class for the first time, I was con
 
 ## Languages
 
-![Swift](https://img.shields.io/badge/-Swift?style=flat-square&logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-transparent?style=flat-square&logo=swift)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
