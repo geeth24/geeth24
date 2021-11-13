@@ -24,7 +24,7 @@ When walked into my Computer Programming 1 class for the first time, I was confu
 
 ## Frameworks
 
-![SwiftUI](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
