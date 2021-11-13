@@ -12,9 +12,9 @@ When walked into my Computer Programming 1 class for the first time, I was confu
 - 📫 Reach me at: [geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
 - 📝 Check out my [Website](https://thetechie.dev)
 
-## I have experience with the following languages & frameworks:
 
-### Languages
+
+## Languages
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -22,7 +22,7 @@ When walked into my Computer Programming 1 class for the first time, I was confu
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 
-### Frameworks
+## Frameworks
 
 ![SwiftUI](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
