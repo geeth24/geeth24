@@ -13,8 +13,10 @@ When I walked into my Computer Programming 1 class for the first time, I was con
 - My Website: [Website](https://thetechie.dev)
 
 ## Socials
-[![Instagram](https://img.shields.io/badge/-instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/thetechie.official/)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/geethgunnampalli/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/thetechie.official/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/geethgunnampalli/)
+[![Youtube](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCZB74IDhr7cSGeBscn1rpRw)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](
 
 
 ## Languages
