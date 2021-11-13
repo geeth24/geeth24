@@ -9,8 +9,8 @@ When walked into my Computer Programming 1 class for the first time, I was confu
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thetechie7&show_icons=true&theme=gotham" alt="thetechie7" width="500" mb="12px" />
 
-- 📫 Reach me at: [geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
-- 📝 Check out my [Website](https://thetechie.dev)
+- Contact Me: [geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
+- My Website: [Website](https://thetechie.dev)
 
 
 
