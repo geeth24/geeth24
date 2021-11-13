@@ -9,14 +9,16 @@ When I walked into my Computer Programming 1 class for the first time, I was con
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thetechie7&show_icons=true&theme=gotham" alt="thetechie7" width="500" mb="12px" />
 
-- Contact Me: [geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
-- My Website: [Website](https://thetechie.dev)
+## Contact
+
+[geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
+
+[Contact Me](https://thetechie.dev/contact-me)
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/thetechie.official/)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/geethgunnampalli/)
 [![Youtube](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCZB74IDhr7cSGeBscn1rpRw)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](
 
 
 ## Languages
