@@ -15,19 +15,21 @@ When walked into my Computer Programming 1 class for the first time, I was confu
 
 
 ## Languages
+
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 
 ## Frameworks
 
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
+![UIKit](https://img.shields.io/badge/-UIKit-black?style=flat-square&logo=swift)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 
 
 
