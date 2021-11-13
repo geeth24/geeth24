@@ -1,4 +1,4 @@
-# <img src="https://www.freeiconspng.com/img/14895" width="30px"> Geeth Gunnampalli ![](https://visitor-badge.glitch.me/badge?page_id=thetechie7.thetechie7)
+# <img src="https://www.freeiconspng.com/uploads/apple-icon-4.png" width="30px"> Geeth Gunnampalli ![](https://visitor-badge.glitch.me/badge?page_id=thetechie7.thetechie7)
 
 Hello, I'm Geeth Gunnampalli, a senior at Coppell High School. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python.
 
