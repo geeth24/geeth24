@@ -12,7 +12,8 @@ When I walked into my Computer Programming 1 class for the first time, I was con
 - Contact Me: [geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
 - My Website: [Website](https://thetechie.dev)
 
-
+## Socials
+![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)(https://www.instagram.com/thetechie.official/)
 
 ## Languages
 
