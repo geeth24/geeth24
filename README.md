@@ -16,7 +16,7 @@ When I walked into my Computer Programming 1 class for the first time, I was con
 [Contact Me](https://thetechie.dev/contact-me)
 
 ## Socials
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/thetechie.official/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/geethsg7/)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/geethgunnampalli/)
 [![Youtube](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCZB74IDhr7cSGeBscn1rpRw)
 
@@ -24,11 +24,12 @@ When I walked into my Computer Programming 1 class for the first time, I was con
 ## Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 
 ## Frameworks
 
