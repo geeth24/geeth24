@@ -1,45 +1,11 @@
-# Geeth Gunnampalli ![](https://visitor-badge.glitch.me/badge?page_id=thetechie7.thetechie7)
+Hi 👋 My name is Geeth Gunnampalli ==================================  Full Stack Web & iOS Developer ------------------------------  Hello, I'm Geeth Gunnampalli, a rising freshman at The University of Texas at Dallas. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python. When I walked into my Computer Programming 1 class for the first time, I was confused. I was new to the environment, and I did not see how this would help me. However, in a couple of weeks, I was hooked on the problem-solving projects assigned in the class. Soon, programming became a passion. It has strengthened my analytical and problem-solving skills and has enabled me to make people's lives easier by identifying problems and finding solutions. My passion for programming has shaped me into a person who drives to improve people's daily life experiences through building applications. Programming has undoubtedly strengthened my analytical and problem-solving skills; it has enabled me to make people's lives easier by identifying issues and finding solutions using the available tools. Finally, it has inspired me to take my programming to the next level by making it my career.  * 🌍  I'm based in Coppell, TX * 🖥️  See my portfolio at [geethg.com](http://geethg.com) * ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) * 🚀  I'm currently working on [MyPanchang](http://mypanchang.app) * 🧠  I'm learning Typescript * 🤝  I'm open to collaborating on Front End Web Designs * ⚡  Lol im just too technical
 
-Hello, I'm Geeth Gunnampalli, a rising freshman at The University of Texas at Dallas. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python.
+### Skills
 
-When I walked into my Computer Programming 1 class for the first time, I was confused. I was new to the environment, and I did not see how this would help me. However, in a couple of weeks, I was hooked on the problem-solving projects assigned in the class. Soon, programming became a passion. It has strengthened my analytical and problem-solving skills and has enabled me to make people's lives easier by identifying problems and finding solutions. My passion for programming has shaped me into a person who drives to improve people's daily life experiences through building applications. Programming has undoubtedly strengthened my analytical and problem-solving skills; it has enabled me to make people's lives easier by identifying issues and finding solutions using the available tools. Finally, it has inspired me to take my programming to the next level by making it my career.
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/thetechie7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/geethsg7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geethgunnampalli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/geethsg7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GGunnampalli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCZB74IDhr7cSGeBscn1rpRw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thetechie7&show_icons=true&theme=gotham" alt="thetechie7" width="500" mb="12px" />
-
-## Contact
-
-[geeth.gunnampalli@radsoftinc.com](mailto:geeth.gunnampalli@radsoftinc.com)
-
-[Contact Me](https://thetechie.dev/contact-me)
-
-## Socials
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/geethsg7/)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/geethgunnampalli/)
-[![Youtube](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCZB74IDhr7cSGeBscn1rpRw)
-
-
-## Languages
-
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-
-## Frameworks
-
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
-![UIKit](https://img.shields.io/badge/-UIKit-black?style=flat-square&logo=swift)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-
-
-
-
-
+<a href="http://www.github.com/thetechie7"><img src="https://github-readme-stats.vercel.app/api?username=thetechie7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thetechie7's GitHub stats" /></a>
