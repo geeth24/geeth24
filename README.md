@@ -3,7 +3,7 @@ Hi 👋 My name is Geeth Gunnampalli
 Full Stack Web & iOS Developer
 ------------------------------  
 
-Hello, I'm Geeth Gunnampalli, a rising freshman at The University of Texas at Dallas. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python. 
+Hello, I'm Geeth Gunnampalli, a freshman at The University of Texas at Dallas. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python. 
 
 * 🌍  I'm based in Coppell, TX 
 * 🖥️  See my portfolio at [geethg.com](http://geethg.com) 
