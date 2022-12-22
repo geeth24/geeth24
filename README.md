@@ -9,7 +9,7 @@ Hello, I'm Geeth Gunnampalli, a freshman at The University of Texas at Dallas. I
 * 🖥️  See my portfolio at [geethg.com](http://geethg.com) 
 * ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
 * 🚀  I'm currently working on [MyPanchang](http://mypanchang.app) 
-* 🧠  I'm learning Typescript 
+* 🧠  I'm learning web3 
 * 🤝  I'm open to collaborating on Front End Web Designs 
 * ⚡  Lol im just too technical
 
