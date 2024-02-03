@@ -4,10 +4,10 @@ Hello, I'm Geeth Gunnampalli, a Junior at The University of Texas at Dallas. I s
 * 🌍  I'm based in Coppell, TX 
 * 🖥️  See my portfolio at [geethg.com](http://geethg.com) 
 * ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
-* 🚀  I'm currently working on [MyPanchang](http://mypanchang.app) 
-* 🧠  I'm learning angular and flutterrrrrr 
-* 🤝  I'm open to collaborating on Front End Web Designs 
-* ⚡  Lol im just too technical
+* 🚀  I'm currently working on [PhotoAura](http://photoaura.radsoftinc.com) 
+* 🧠  I'm learning ai
+* 🤝  I'm open to collaborating on full stack and mobile dev 
+* ⚡  i love to code as you can see lol
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geethsg7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geethg) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/geethsg) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/geethsg7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/geethsg7) 
