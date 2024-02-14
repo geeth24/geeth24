@@ -4,7 +4,7 @@ Hello, I'm Geeth Gunnampalli, a Junior at The University of Texas at Dallas. I s
 * 🌍  I'm based in Coppell, TX 
 * 🖥️  See my portfolio at [geethg.com](http://geethg.com) 
 * ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
-* 🚀  I'm currently working on [PhotoAura](http://photoaura.radsoftinc.com) 
+* 🚀  I'm currently working on [PhotoAura](https://photoaura.app) 
 * 🧠  I'm learning ai
 * 🤝  I'm open to collaborating on full stack and mobile dev 
 * ⚡  i love to code as you can see lol
