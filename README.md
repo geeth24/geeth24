@@ -2,7 +2,7 @@
 Hello, I'm Geeth Gunnampalli, a Junior at The University of Texas at Dallas. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python.<br><br>
 
 * 🌍  I'm based in Coppell, TX 
-* 🖥️  See my portfolio at [geethg.com](http://geethg.com) 
+* 🖥️  See my portfolio at [cv.geethg.com](http://cv.geethg.com) 
 * ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
 * 🚀  I'm currently working on [PhotoAura](https://photoaura.app) 
 * 🧠  I'm learning ai
