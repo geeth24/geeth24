@@ -24,7 +24,7 @@ This summer of 2024, I will be interning at USAA, serving as a Software Engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geeth24&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=geethsg7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=geethgunna)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=geeth24&icon=0&color=1)](https://visitcount.itsvg.in)
