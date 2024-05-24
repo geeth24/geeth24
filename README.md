@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello, I'm Geeth Gunnampalli, a Junior at The University of Texas at Dallas. I started developing websites and applications in 2018. I have experience in modern programming languages like Swift, JavaScript & Python.<br><br>
+Hi there! I'm Geeth, a junior at the University of Texas at Dallas, where I am pursuing a Bachelor’s degree in Computer Science. I am a passionate software developer with a keen interest in both mobile and web development, always eager to learn and grow in my field.
+
+I've been building applications since the 11th grade. In 2021, I launched my first app, MyPanchang, a lunar calendar app. Since its launch, MyPanchang has amassed over 3,700 downloads on the App Store.
+
+This summer of 2024, I will be interning at USAA, serving as a Software Engineer Intern on the Mobile Banking team, where I will be contributing to the iOS app.<br><br>
 
 * 🌍  I'm based in Coppell, TX 
 * 🖥️  See my portfolio at [cv.geethg.com](http://cv.geethg.com) 
