@@ -1,6 +1,13 @@
 # 💫 About Me:
 Hi there! I'm Geeth, a senior at the University of Texas at Dallas, where I am pursuing a Bachelor's degree in Computer Science. I am a passionate software developer with a keen interest in both mobile and web development, always eager to learn and grow in my field. I enjoy innovating and creating new things, and I am always looking for new opportunities to challenge myself.<br><br>I've been building applications since the 11th grade. In 2021, I launched my first app, MyPanchang, a lunar calendar app. Since its launch, MyPanchang has amassed over 4,200 downloads on the App Store.
 
+* 🌍  I'm based in Coppell, TX 
+* 🖥️  See my portfolio at [geethgunna.com](http://geethgunna.com) 
+* ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
+* 🚀  I'm currently working on [MyPanchang](https://mypanchang.app) 
+* 🧠  I'm learning Kotlin
+* 🤝  I'm open to collaborating on full stack and mobile dev 
+* ⚡  I love to code as you can see lol
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geethgunna) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/geethsg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/geethgunna) 
