@@ -5,7 +5,7 @@ Hi there! I'm Geeth, a senior at the University of Texas at Dallas, where I am p
 * 🖥️  See my portfolio at [geethgunna.com](http://geethgunna.com) 
 * ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
 * 🚀  I'm currently working on [MyPanchang](https://mypanchang.app) 
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning AI / ML
 * 🤝  I'm open to collaborating on full stack and mobile dev 
 * ⚡  I love to code as you can see lol
 
