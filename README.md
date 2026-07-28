@@ -86,7 +86,7 @@ Software engineer working across iOS, Android, and the web. I care about smooth 
 
 ### stack
 
-<p><img src="https://cdn.simpleicons.org/swift/8B8D93" height="24" alt="Swift" title="Swift">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/android/8B8D93" height="24" alt="Android" title="Android">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/8B8D93" height="24" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/react/8B8D93" height="24" alt="React" title="React">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/8B8D93" height="24" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fastapi/8B8D93" height="24" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/8B8D93" height="24" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prisma/8B8D93" height="24" alt="Prisma" title="Prisma">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/8B8D93" height="24" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/8B8D93" height="24" alt="Cloudflare" title="Cloudflare"></p>
+<img src="https://cdn.rsft.co/geeth24/stack-row-1.svg" height="24" alt="Swift, Android, TypeScript, React, Next.js, FastAPI, PostgreSQL, Prisma, Docker, Cloudflare">
 
 <sub>plus SwiftUI, UIKit, and whatever the project needs</sub>
 
