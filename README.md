@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.rsft.co/geeth24/hero-dark-2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.rsft.co/geeth24/hero-light-2.svg">
-  <img src="https://cdn.rsft.co/geeth24/hero-dark-2.svg" alt="Geeth Gunnampalli, software engineer, iOS and web." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.rsft.co/geeth24/hero-dark-3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.rsft.co/geeth24/hero-light-3.svg">
+  <img src="https://cdn.rsft.co/geeth24/hero-dark-3.svg" alt="Geeth Gunnampalli, software engineer, mobile and fullstack." width="100%">
 </picture>
 
 <p align="right">
@@ -15,7 +15,7 @@
 
 <br>
 
-Software engineer working across iOS and the web. I care about smooth animation, clean architecture, and the details most people never notice. Currently building Chase Mobile at JPMorganChase and products at [Rad Soft](https://radsoftinc.com).
+Software engineer working across iOS, Android, and the web. I care about smooth animation, clean architecture, and the details most people never notice. Currently building Chase Mobile at JPMorganChase and products at [Rad Soft](https://radsoftinc.com).
 
 <br>
 
@@ -86,7 +86,7 @@ Software engineer working across iOS and the web. I care about smooth animation,
 
 ### stack
 
-<p><img src="https://cdn.simpleicons.org/swift/8B8D93" height="24" alt="Swift" title="Swift">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/8B8D93" height="24" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/react/8B8D93" height="24" alt="React" title="React">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/8B8D93" height="24" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fastapi/8B8D93" height="24" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/8B8D93" height="24" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prisma/8B8D93" height="24" alt="Prisma" title="Prisma">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/8B8D93" height="24" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/8B8D93" height="24" alt="Cloudflare" title="Cloudflare"></p>
+<p><img src="https://cdn.simpleicons.org/swift/8B8D93" height="24" alt="Swift" title="Swift">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/android/8B8D93" height="24" alt="Android" title="Android">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/8B8D93" height="24" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/react/8B8D93" height="24" alt="React" title="React">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/8B8D93" height="24" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fastapi/8B8D93" height="24" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/8B8D93" height="24" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/prisma/8B8D93" height="24" alt="Prisma" title="Prisma">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/8B8D93" height="24" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/8B8D93" height="24" alt="Cloudflare" title="Cloudflare"></p>
 
 <sub>plus SwiftUI, UIKit, and whatever the project needs</sub>
 
