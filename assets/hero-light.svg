@@ -1,4 +1,4 @@
-<svg width="1200" height="480" viewBox="0 0 1200 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Geeth Gunnampalli. I build interfaces that feel right.">
+<svg width="1200" height="480" viewBox="0 0 1200 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Geeth Gunnampalli, software engineer, iOS and web.">
   <defs>
     <clipPath id="card"><rect width="1200" height="480" rx="20"/></clipPath>
     <linearGradient id="tape" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
@@ -21,7 +21,7 @@
     }
     .headline {
       font-family: 'Clash Display', ui-sans-serif, -apple-system, 'Segoe UI', sans-serif;
-      font-weight: 500; font-size: 80px; letter-spacing: -0.02em; fill: #16171A;
+      font-weight: 500; font-size: 96px; letter-spacing: -0.02em; fill: #16171A;
     }
     .eyebrow {
       font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, monospace;
@@ -42,13 +42,13 @@
   <rect x="0.5" y="0.5" width="1199" height="479" rx="19.5" stroke="rgba(22,23,26,0.10)"/>
 
   <g clip-path="url(#card)">
-    <text class="eyebrow" x="64" y="92">GEETH GUNNAMPALLI</text>
-    <text class="eyebrow" x="1136" y="92" text-anchor="end">SOFTWARE ENGINEER</text>
+    <text class="eyebrow" x="64" y="92">SOFTWARE ENGINEER</text>
+    <text class="eyebrow" x="1136" y="92" text-anchor="end">IOS &amp; WEB</text>
 
-    <g><text class="headline" x="60" y="248">I build interfaces</text></g>
-    <g><text class="headline" x="60" y="336">that feel right.</text></g>
+    <text class="headline" x="60" y="252">geeth</text>
+    <text class="headline" x="60" y="348">gunnampalli</text>
 
-    <text class="meta" x="64" y="424">IOS &amp; WEB</text>
+    <text class="meta" x="64" y="424">DALLAS, TX</text>
     <text class="meta" x="1136" y="424" text-anchor="end">GEETH.COM</text>
 
     <g class="tape-slide">

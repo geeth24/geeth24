@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="Geeth Gunnampalli. I build interfaces that feel right." width="100%">
+  <img src="assets/hero-dark.svg" alt="Geeth Gunnampalli, software engineer, iOS and web." width="100%">
 </picture>
 
 <p align="right">
