@@ -15,7 +15,7 @@
 
 <br>
 
-Software engineer working across iOS, Android, and the web. I care about smooth animation, clean architecture, and the details most people never notice. Currently building Chase Mobile at JPMorganChase and products at [Rad Soft](https://radsoftinc.com).
+Software engineer working across iOS, Android, and the web. I care about smooth animation, clean architecture, and the details most people never notice. Currently building Chase Mobile iOS at JPMorganChase and products at [Rad Soft](https://radsoftinc.com).
 
 <br>
 
