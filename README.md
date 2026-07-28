@@ -1,25 +1,119 @@
-# 💫 About Me:
-Hi there! I'm Geeth, a senior at the University of Texas at Dallas, where I am pursuing a Bachelor's degree in Computer Science. I am a passionate software developer with a keen interest in both mobile and web development, always eager to learn and grow in my field. I enjoy innovating and creating new things, and I am always looking for new opportunities to challenge myself.<br><br>I've been building applications since the 11th grade. In 2021, I launched my first app, MyPanchang, a lunar calendar app. Since its launch, MyPanchang has amassed over 4,200 downloads on the App Store.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" alt="Geeth Gunnampalli. I build interfaces that feel right." width="100%">
+</picture>
 
-* 🌍  I'm based in Coppell, TX 
-* 🖥️  See my portfolio at [geethgunna.com](http://geethgunna.com) 
-* ✉️  You can contact me at [geeth.gunnampalli@gmail.com](mailto:geeth.gunnampalli@gmail.com) 
-* 🚀  I'm currently working on [MyPanchang](https://mypanchang.app) 
-* 🧠  I'm learning AI / ML
-* 🤝  I'm open to collaborating on full stack and mobile dev 
-* ⚡  I love to code as you can see lol
+<p align="right">
+  <sub>
+    <a href="https://geethg.com"><b>geethg.com</b></a>&nbsp;&nbsp;
+    <a href="https://x.com/geethgunna">x</a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/geethg">linkedin</a>&nbsp;&nbsp;
+    <a href="mailto:geeth@radsoftinc.com">email</a>
+  </sub>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geethgunna) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/geethsg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/geethgunna) 
+<br>
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geeth24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=geeth24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geeth24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Software engineer working across iOS and the web. I care about smooth animation, clean architecture, and the details most people never notice. Currently building Chase Mobile at JPMorganChase and products at [Rad Soft](https://radsoftinc.com).
 
----
-[![](https://visitcount.itsvg.in/api?id=geeth24&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mypanchang.app">
+        <img src="https://cdn.rsft.co/framr/mypanchang.app/b29cdf08-1954-4c03-a932-f1910d707c38.png" alt="MyPanchang">
+      </a>
+      <br><sub><b>MyPanchang</b>&nbsp;&nbsp;iOS & FULLSTACK</sub>
+      <br><sub>A location-aware Hindu calendar for iPhone: daily Panchang, festivals, and calendar tools.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://astraarena.ai">
+        <img src="https://cdn.rsft.co/framr/astraarena.ai/22980caf-80e2-4226-89dc-6dc09d9deb63.png" alt="Astra Arena">
+      </a>
+      <br><sub><b>Astra Arena</b>&nbsp;&nbsp;FULLSTACK</sub>
+      <br><sub>Compare AI coding models through real software challenges and weekly tournaments.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://photoaura.app">
+        <img src="https://cdn.rsft.co/framr/photoaura.app/9c142bd9-394d-418f-bc52-b3a5385c2c6c.png" alt="PhotoAura">
+      </a>
+      <br><sub><b>PhotoAura</b>&nbsp;&nbsp;WEB + iOS</sub>
+      <br><sub>Studio-grade photo delivery for working photographers: albums, client galleries, magic links.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://markbase.co">
+        <img src="https://cdn.rsft.co/framr/markbase.co/ddc36af0-1c21-4157-b3e4-7773927b0ae1.png" alt="Markbase">
+      </a>
+      <br><sub><b>Markbase</b>&nbsp;&nbsp;DATA PLATFORM</sub>
+      <br><sub>USPTO trademark search built to make 10M+ public records actually usable.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://shaderui.com">
+        <img src="https://cdn.rsft.co/framr/shaderui.com/d687c374-aef1-43b4-ac84-ebdab92333c8.png" alt="ShaderUI">
+      </a>
+      <br><sub><b>ShaderUI</b>&nbsp;&nbsp;DEVELOPER TOOL</sub>
+      <br><sub>A visual shader and mesh-gradient studio for production-ready WebGL backgrounds.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://taxnest.radsoft.cloud">
+        <img src="https://cdn.rsft.co/framr/taxnest.radsoft.cloud/01a13d73-4832-4db9-8863-7a6ac8f6c3ff.png" alt="TaxNest">
+      </a>
+      <br><sub><b>TaxNest</b>&nbsp;&nbsp;SAAS</sub>
+      <br><sub>AI-assisted document collection for CPAs and tax teams, with secure client portals.</sub>
+    </td>
+  </tr>
+</table>
+
+### everything else
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://radsoftinc.com"><b>Rad Soft</b></a><br><sub>COMPANY</sub></td>
+    <td width="33%"><a href="https://reactiveshots.com"><b>Reactive Shots</b></a><br><sub>WEB</sub></td>
+    <td width="33%"><a href="https://syntora.app"><b>Syntora</b></a><br><sub>WEB</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://cramr.geeth.app"><b>Cramr</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://swiftdns.geeth.app"><b>SwiftDNS</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://hypergo.geeth.app"><b>HyperGo</b></a><br><sub>WEB</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://clearkit.rsft.co"><b>ClearKit</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://adhacoinc.com"><b>Adhaco Construction</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://montvel-media.com"><b>Montvel Media</b></a><br><sub>WEB</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://decorateurparty.com"><b>Decorate Ur Party</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://plazaparksalonsuites.com"><b>Plaza Park Salon Suites</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://pistahouseirving.com"><b>Pista House Irving</b></a><br><sub>WEB</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://pistaexpress.com"><b>Pista Express</b></a><br><sub>WEB</sub></td>
+    <td><a href="https://geeth.co"><b>Geeth</b></a><br><sub>WEB</sub></td>
+    <td></td>
+  </tr>
+</table>
+
+### now
+
+- Software Engineer I, iOS at **JPMorganChase**, working on Chase Mobile
+- Building products at **Rad Soft**
+- M.S. Computer Science, AI at **Georgia Tech**, expected 2028
+
+<sub>Previously: USAA, HackerRank, UT Dallas OIT, Larsen & Toubro. B.S. Computer Science, UT Dallas.</sub>
+
+### stack
+
+`Swift` `SwiftUI` `UIKit` `TypeScript` `React` `Next.js` `FastAPI` `PostgreSQL` `Prisma` `Docker` `Cloudflare`
+
+<br>
+
+<p align="right"><sub>the full index lives at <a href="https://geethg.com">geethg.com</a></sub></p>
