@@ -31,18 +31,11 @@
       font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, monospace;
       font-size: 13px; letter-spacing: 0.14em; fill: #A5A6AA;
     }
-    .rise { opacity: 0; transform: translateY(16px); animation: rise 0.8s cubic-bezier(0.23,1,0.32,1) forwards; }
-    .fade { opacity: 0; animation: fade 0.7s ease-out forwards; }
-    .d1 { animation-delay: 0.05s; }
-    .d2 { animation-delay: 0.16s; }
-    .d3 { animation-delay: 0.30s; }
-    .d4 { animation-delay: 0.46s; }
     .tape-slide { animation: slide 22s linear infinite; }
     @keyframes rise { to { opacity: 1; transform: translateY(0); } }
     @keyframes fade { to { opacity: 1; } }
     @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
     @media (prefers-reduced-motion: reduce) {
-      .rise, .fade { animation: none; opacity: 1; transform: none; }
       .tape-slide { animation: none; }
     }
   </style>
@@ -51,14 +44,14 @@
   <rect x="0.5" y="0.5" width="1199" height="479" rx="19.5" stroke="rgba(255,255,255,0.09)"/>
 
   <g clip-path="url(#card)">
-    <text class="eyebrow fade d1" x="64" y="92">GEETH GUNNAMPALLI</text>
-    <text class="eyebrow fade d1" x="1136" y="92" text-anchor="end">SOFTWARE ENGINEER</text>
+    <text class="eyebrow" x="64" y="92">GEETH GUNNAMPALLI</text>
+    <text class="eyebrow" x="1136" y="92" text-anchor="end">SOFTWARE ENGINEER</text>
 
-    <g class="rise d2"><text class="headline" x="60" y="248">I build interfaces</text></g>
-    <g class="rise d3"><text class="headline" x="60" y="336">that feel right.</text></g>
+    <g><text class="headline" x="60" y="248">I build interfaces</text></g>
+    <g><text class="headline" x="60" y="336">that feel right.</text></g>
 
-    <text class="meta fade d4" x="64" y="424">IOS &amp; WEB</text>
-    <text class="meta fade d4" x="1136" y="424" text-anchor="end">GEETHG.COM</text>
+    <text class="meta" x="64" y="424">IOS &amp; WEB</text>
+    <text class="meta" x="1136" y="424" text-anchor="end">GEETHG.COM</text>
 
     <g class="tape-slide">
       <rect x="0" y="472" width="1200" height="8" fill="url(#tape)"/>
