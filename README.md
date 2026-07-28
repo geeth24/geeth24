@@ -74,33 +74,7 @@ Software engineer working across iOS and the web. I care about smooth animation,
 
 ### everything else
 
-<table>
-  <tr>
-    <td width="33%"><a href="https://radsoftinc.com"><b>Rad Soft</b></a><br><sub>COMPANY</sub></td>
-    <td width="33%"><a href="https://reactiveshots.com"><b>Reactive Shots</b></a><br><sub>WEB</sub></td>
-    <td width="33%"><a href="https://syntora.app"><b>Syntora</b></a><br><sub>WEB</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://cramr.geeth.app"><b>Cramr</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://swiftdns.geeth.app"><b>SwiftDNS</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://hypergo.geeth.app"><b>HyperGo</b></a><br><sub>WEB</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://clearkit.rsft.co"><b>ClearKit</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://adhacoinc.com"><b>Adhaco Construction</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://montvel-media.com"><b>Montvel Media</b></a><br><sub>WEB</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://decorateurparty.com"><b>Decorate Ur Party</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://plazaparksalonsuites.com"><b>Plaza Park Salon Suites</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://pistahouseirving.com"><b>Pista House Irving</b></a><br><sub>WEB</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://pistaexpress.com"><b>Pista Express</b></a><br><sub>WEB</sub></td>
-    <td><a href="https://geeth.co"><b>Geeth</b></a><br><sub>WEB</sub></td>
-    <td></td>
-  </tr>
-</table>
+[Rad Soft](https://radsoftinc.com) · [Reactive Shots](https://reactiveshots.com) · [Syntora](https://syntora.app) · [Cramr](https://cramr.geeth.app) · [SwiftDNS](https://swiftdns.geeth.app) · [HyperGo](https://hypergo.geeth.app) · [ClearKit](https://clearkit.rsft.co) · [Adhaco Construction](https://adhacoinc.com) · [Montvel Media](https://montvel-media.com) · [Decorate Ur Party](https://decorateurparty.com) · [Plaza Park Salon Suites](https://plazaparksalonsuites.com) · [Pista House Irving](https://pistahouseirving.com) · [Pista Express](https://pistaexpress.com) · [Geeth](https://geeth.co)
 
 ### now
 
