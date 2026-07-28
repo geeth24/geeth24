@@ -86,7 +86,19 @@ Software engineer working across iOS and the web. I care about smooth animation,
 
 ### stack
 
-`Swift` `SwiftUI` `UIKit` `TypeScript` `React` `Next.js` `FastAPI` `PostgreSQL` `Prisma` `Docker` `Cloudflare`
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swift/A5A6AA"><img src="https://cdn.simpleicons.org/swift/5F6167" height="26" alt="Swift" title="Swift"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/A5A6AA"><img src="https://cdn.simpleicons.org/typescript/5F6167" height="26" alt="TypeScript" title="TypeScript"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/A5A6AA"><img src="https://cdn.simpleicons.org/react/5F6167" height="26" alt="React" title="React"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/A5A6AA"><img src="https://cdn.simpleicons.org/nextdotjs/5F6167" height="26" alt="Next.js" title="Next.js"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/A5A6AA"><img src="https://cdn.simpleicons.org/fastapi/5F6167" height="26" alt="FastAPI" title="FastAPI"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/A5A6AA"><img src="https://cdn.simpleicons.org/postgresql/5F6167" height="26" alt="PostgreSQL" title="PostgreSQL"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/A5A6AA"><img src="https://cdn.simpleicons.org/prisma/5F6167" height="26" alt="Prisma" title="Prisma"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/A5A6AA"><img src="https://cdn.simpleicons.org/docker/5F6167" height="26" alt="Docker" title="Docker"></picture>&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cloudflare/A5A6AA"><img src="https://cdn.simpleicons.org/cloudflare/5F6167" height="26" alt="Cloudflare" title="Cloudflare"></picture>
+</p>
+
+<sub>plus SwiftUI, UIKit, and whatever the project needs</sub>
 
 <br>
 
