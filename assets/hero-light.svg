@@ -53,7 +53,7 @@
 
     <g class="tape-slide">
       <rect x="0" y="472" width="1200" height="8" fill="url(#tape)"/>
-      <rect x="1200" y="472" width="1200" height="8" fill="url(#tape)"/>
+      <rect x="1199" y="472" width="1201" height="8" fill="url(#tape)"/>
     </g>
   </g>
 </svg>

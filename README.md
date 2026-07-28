@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.rsft.co/geeth24/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.rsft.co/geeth24/hero-light.svg">
-  <img src="https://cdn.rsft.co/geeth24/hero-dark.svg" alt="Geeth Gunnampalli, software engineer, iOS and web." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.rsft.co/geeth24/hero-dark-2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.rsft.co/geeth24/hero-light-2.svg">
+  <img src="https://cdn.rsft.co/geeth24/hero-dark-2.svg" alt="Geeth Gunnampalli, software engineer, iOS and web." width="100%">
 </picture>
 
 <p align="right">
