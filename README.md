@@ -6,7 +6,7 @@
 
 <p align="right">
   <sub>
-    <a href="https://geethg.com"><b>geethg.com</b></a>&nbsp;&nbsp;
+    <a href="https://geeth.com"><b>geeth.com</b></a>&nbsp;&nbsp;
     <a href="https://x.com/geethgunna">x</a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/geethg">linkedin</a>&nbsp;&nbsp;
     <a href="mailto:geeth@radsoftinc.com">email</a>
@@ -116,4 +116,4 @@ Software engineer working across iOS and the web. I care about smooth animation,
 
 <br>
 
-<p align="right"><sub>the full index lives at <a href="https://geethg.com">geethg.com</a></sub></p>
+<p align="right"><sub>the full index lives at <a href="https://geeth.com">geeth.com</a></sub></p>
