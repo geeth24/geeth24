@@ -9,7 +9,8 @@
     <a href="https://geeth.com"><b>geeth.com</b></a>&nbsp;&nbsp;
     <a href="https://x.com/geethgunna">x</a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/geethg">linkedin</a>&nbsp;&nbsp;
-    <a href="mailto:geeth@radsoftinc.com">email</a>
+    <a href="mailto:geeth@radsoftinc.com">email</a>&nbsp;&nbsp;
+    <a href="https://cal.com/geethgunna/15min">book a call</a>
   </sub>
 </p>
 
