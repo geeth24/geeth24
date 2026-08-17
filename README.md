@@ -94,7 +94,7 @@ Software engineer working across iOS, Android, and the web. I care about smooth 
 <br>
 
 <p align="center">
-  <img src="https://cdn.rsft.co/geeth24/gee-idle-1.gif" width="72" alt="gee, the pixel mascot">
+  <img src="https://cdn.rsft.co/geeth24/gee-idle-2.gif" width="72" alt="gee, the pixel mascot">
 </p>
 
 <p align="right"><sub>the full index lives at <a href="https://geeth.com">geeth.com</a></sub></p>
