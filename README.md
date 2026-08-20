@@ -75,7 +75,7 @@ Software engineer working across iOS, Android, and the web. I care about smooth 
 
 ### everything else
 
-[Rad Soft](https://radsoftinc.com) · [Reactive Shots](https://reactiveshots.com) · [Syntora](https://syntora.app) · [Cramr](https://cramr.geeth.app) · [SwiftDNS](https://swiftdns.geeth.app) · [HyperGo](https://hypergo.geeth.app) · [ClearKit](https://clearkit.rsft.co) · [Adhaco Construction](https://adhacoinc.com) · [Montvel Media](https://montvel-media.com) · [Decorate Ur Party](https://decorateurparty.com) · [Plaza Park Salon Suites](https://plazaparksalonsuites.com) · [Pista House Irving](https://pistahouseirving.com) · [Pista Express](https://pistaexpress.com) · [Geeth](https://geeth.co)
+[PixelMascot](https://pixelmascot.geeth.app) · [Rad Soft](https://radsoftinc.com) · [Reactive Shots](https://reactiveshots.com) · [Syntora](https://syntora.app) · [Cramr](https://cramr.geeth.app) · [SwiftDNS](https://swiftdns.geeth.app) · [HyperGo](https://hypergo.geeth.app) · [ClearKit](https://clearkit.rsft.co) · [Adhaco Construction](https://adhacoinc.com) · [Montvel Media](https://montvel-media.com) · [Decorate Ur Party](https://decorateurparty.com) · [Plaza Park Salon Suites](https://plazaparksalonsuites.com) · [Pista House Irving](https://pistahouseirving.com) · [Pista Express](https://pistaexpress.com) · [Geeth](https://geeth.com)
 
 ### now
 
